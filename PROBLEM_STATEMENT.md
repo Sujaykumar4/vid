@@ -44,7 +44,14 @@ We invite hackathon participants to solve these critical engineering challenges:
 
 ---
 
-## 4. Evaluation Criteria
+## 4. Model Training & Custom ML Architectures
+Participants are fully encouraged to train or tune machine learning models to solve these tracks:
+* **Gemini Fine-Tuning:** You can use Google AI Studio to fine-tune the Gemini model on custom educational datasets to improve output quality, tone, or multilingual accuracy.
+* **Custom ML Microservices:** For tasks like custom OCR, handwriting extraction, or diagram analysis, you are permitted to train external models (e.g., PyTorch, TensorFlow, YOLO) and deploy them as separate microservices (e.g., FastAPI, Flask) that interface with the main Express backend.
+
+---
+
+## 5. Evaluation Criteria
 Submissions will be evaluated based on:
 1. **Technical Execution:** Cleanliness of code, API efficiency, and robust handling of edge cases (e.g. blurry images).
 2. **User Experience (UX):** Intuitive UI flows for uploading, reading notes, and taking quizzes.
@@ -52,7 +59,7 @@ Submissions will be evaluated based on:
 
 ---
 
-## 5. Terms & Conditions
+## 6. Terms & Conditions
 By participating in this hackathon, participants agree to adhere to the following legal and operational terms:
 1. **Intellectual Property (IP) Rights:** All source code, assets, and documentation developed during this hackathon must be open-sourced under the MIT License and committed directly to the designated repository.
 2. **Originality of Work & AI Tooling:** Submissions must represent original work created entirely during the hackathon period. While the use of AI development assistants (e.g., GitHub Copilot, ChatGPT, Cursor) is allowed and encouraged for coding and feature development, the plagiarism of pre-built third-party clone systems or copying another participant's project is strictly prohibited.
