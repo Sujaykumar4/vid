@@ -55,6 +55,7 @@ Submissions will be evaluated based on:
 ## 5. Terms & Conditions
 By participating in this hackathon, participants agree to adhere to the following legal and operational terms:
 1. **Intellectual Property (IP) Rights:** All source code, assets, and documentation developed during this hackathon must be open-sourced under the MIT License and committed directly to the designated repository.
-2. **Originality of Work:** Submissions must represent original work created entirely during the hackathon period. Plagiarism, utilizing pre-existing proprietary tools without authorization, or violating third-party intellectual property is strictly prohibited.
+2. **Originality of Work & AI Tooling:** Submissions must represent original work created entirely during the hackathon period. While the use of AI development assistants (e.g., GitHub Copilot, ChatGPT, Cursor) is allowed and encouraged for coding and feature development, the plagiarism of pre-built third-party clone systems or copying another participant's project is strictly prohibited.
 3. **Responsible API Usage:** Participants must use the provided Gemini API key responsibly and exclusively for requests directly related to the development of this hackathon project. Any credential sharing, key leak, or abuse will lead to immediate disqualification.
 4. **Data Privacy & Integrity:** Any student or user data generated or imported for testing purposes must strictly comply with industry-standard data protection guidelines. Do not upload personal, sensitive, or copyrighted materials that do not belong to you.
+
